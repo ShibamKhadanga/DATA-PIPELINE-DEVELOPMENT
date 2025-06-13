@@ -54,5 +54,6 @@ pip install pandas scikit-learn seaborn
 ```
 ## OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/c28b7da2-bd67-47da-95ce-7115f02567c7)
+![Image](https://github.com/user-attachments/assets/e18ccc8e-f621-4c02-b8f5-d952cd5c02c8)
 
