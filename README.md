@@ -50,3 +50,7 @@ Build a data preprocessing pipeline that performs:
 ### 🔧 Install requirements
 ```bash
 pip install pandas scikit-learn seaborn
+
+# OUTPUT
+
+
