@@ -1,4 +1,17 @@
 # DATA-PIPELINE-DEVELOPMENT
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: SHIBAM KHADANGA
+
+**INTERN ID**: CT04DF1351
+
+**DOMAIN**: Data Science
+
+**BATCH DURATION**: Jun 5th, 2025 to July 5th, 2025
+
+**MENTOR NAME**: NEELA SANTHOSH
+
+DESCRIPTION OF TASK
 This task is part of the CODTECH Data Science Internship.
 
 ## 📌 Objective
